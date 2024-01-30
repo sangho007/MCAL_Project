@@ -1,0 +1,2018 @@
+!SESSION 2023-12-22 10:46:27.046 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 10:47:22.081
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 10:47:22.083
+!MESSAGE Project was boosted in 23 milliseconds. (full boost)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-22 10:47:35.038
+!MESSAGE Indexed 'SCU_Gen6' (88 sources, 804 headers) in 18.8 sec: 48,055 declarations; 338,430 references; 1 unresolved inclusions; 786 syntax errors; 1,978 unresolved names (0.51%)
+!SESSION 2023-12-22 10:48:57.110 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 10:49:23.851
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 10:49:23.853
+!MESSAGE Project was boosted in 4 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 10:49:23.993
+!MESSAGE Include paths were discovered in 136 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-22 10:49:48.060
+!MESSAGE Indexed 'SCU_Gen6' (88 sources, 804 headers) in 26.4 sec: 48,055 declarations; 338,430 references; 1 unresolved inclusions; 786 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.ui.ide 4 4 2023-12-22 12:41:56.018
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2023-12-22 12:41:56.024
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-12-22 12:41:56.024
+!MESSAGE The project description file (.project) for 'SCU_Gen6' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-22 12:41:56.206
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-12-22 12:42:28.129 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-22 12:42:35.713
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 12:42:57.272
+!MESSAGE Project was boosted in 2945 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 12:42:57.347
+!MESSAGE Include paths were discovered in 73 milliseconds.
+!SESSION 2023-12-22 14:30:28.490 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 14:46:57.471
+!MESSAGE Project was boosted in 2310 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 14:46:57.562
+!MESSAGE Include paths were discovered in 87 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:08:17.187
+!MESSAGE Project was boosted in 70 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:08:17.234
+!MESSAGE Include paths were discovered in 44 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:14:34.864
+!MESSAGE Project was boosted in 65 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:14:34.922
+!MESSAGE Include paths were discovered in 56 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:18:22.802
+!MESSAGE Project was boosted in 62 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:18:22.859
+!MESSAGE Include paths were discovered in 54 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:23:40.794
+!MESSAGE Project was boosted in 77 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:23:40.850
+!MESSAGE Include paths were discovered in 54 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:28:34.194
+!MESSAGE Adding Booster and Autodiscovery builders to project: SCU_Gen6
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:28:47.069
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:28:47.070
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 15:28:47.164
+!MESSAGE Include paths were discovered in 92 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-22 15:29:00.097
+!MESSAGE Indexed 'SCU_Gen6' (90 sources, 807 headers) in 25.4 sec: 47,785 declarations; 335,719 references; 2 unresolved inclusions; 781 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:16:05.000
+!MESSAGE Project was boosted in 943 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:16:05.047
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:18:41.058
+!MESSAGE Project was boosted in 51 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:18:41.113
+!MESSAGE Include paths were discovered in 53 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:19:32.963
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:19:32.963
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:19:33.003
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:31:07.616
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:31:07.616
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 16:31:07.662
+!MESSAGE Include paths were discovered in 44 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 17:20:10.356
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 17:20:10.357
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-22 17:20:10.402
+!MESSAGE Include paths were discovered in 44 milliseconds.
+!SESSION 2023-12-26 10:42:10.604 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 10:45:35.765
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 10:45:35.767
+!MESSAGE Project was boosted in 5 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 10:45:35.918
+!MESSAGE Include paths were discovered in 148 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 10:59:17.186
+!MESSAGE Project was boosted in 1672 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 10:59:17.247
+!MESSAGE Include paths were discovered in 59 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:01:55.674
+!MESSAGE Project was boosted in 48 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:01:55.722
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:10:32.578
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:10:32.579
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:10:32.638
+!MESSAGE Include paths were discovered in 58 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:10:55.546
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:10:55.546
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:10:55.586
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:16:38.205
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:16:38.206
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:16:38.249
+!MESSAGE Include paths were discovered in 41 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:19:04.514
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:19:04.514
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:19:04.591
+!MESSAGE Include paths were discovered in 75 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:22:39.878
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:22:39.878
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:22:39.918
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:22:56.194
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:22:56.195
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:22:56.236
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:27:58.541
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:27:58.542
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:27:58.578
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:38:37.884
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:38:37.884
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:38:37.926
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:38:59.053
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:38:59.053
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 11:38:59.092
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 12:22:03.514
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 12:22:03.515
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 12:22:03.560
+!MESSAGE Include paths were discovered in 43 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 12:24:56.877
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 12:24:56.877
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 12:24:56.913
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 14:36:41.394
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 14:36:41.394
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 14:36:41.473
+!MESSAGE Include paths were discovered in 77 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 15:37:46.625
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 15:37:46.625
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 15:37:46.689
+!MESSAGE Include paths were discovered in 63 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 15:45:48.725
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 15:45:48.726
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-26 15:45:48.777
+!MESSAGE Include paths were discovered in 49 milliseconds.
+!SESSION 2023-12-27 10:06:32.651 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-27 10:06:42.476
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 10:50:03.652
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 10:50:03.653
+!MESSAGE Project was boosted in 2 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 10:50:03.840
+!MESSAGE Include paths were discovered in 183 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 11:40:07.913
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 11:40:07.914
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 11:40:07.983
+!MESSAGE Include paths were discovered in 67 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:20:20.454
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:20:20.454
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:20:20.514
+!MESSAGE Include paths were discovered in 58 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:23:53.397
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:23:53.398
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:23:53.448
+!MESSAGE Include paths were discovered in 49 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:26:23.911
+!MESSAGE Project was boosted in 1411 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:26:23.952
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:28:00.612
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:28:00.613
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:28:00.644
+!MESSAGE Include paths were discovered in 29 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:32:58.135
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:32:58.136
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 12:32:58.170
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 15:06:44.671
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 15:06:44.672
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 15:06:44.719
+!MESSAGE Include paths were discovered in 46 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 16:02:10.544
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 16:02:10.545
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 16:02:10.599
+!MESSAGE Include paths were discovered in 53 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 17:05:43.549
+!MESSAGE Project was boosted in 95 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 17:05:43.586
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 17:09:02.383
+!MESSAGE Project was boosted in 59 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2023-12-27 17:09:02.428
+!MESSAGE Include paths were discovered in 44 milliseconds.
+!SESSION 2024-01-04 11:47:44.010 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 11:57:13.237
+!MESSAGE Project was boosted in 2006 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 11:57:13.355
+!MESSAGE Include paths were discovered in 112 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 11:58:39.211
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 11:58:39.212
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 11:58:39.275
+!MESSAGE Include paths were discovered in 61 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 12:10:54.408
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 12:10:54.409
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 12:10:54.459
+!MESSAGE Include paths were discovered in 48 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 14:24:48.471
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 14:24:48.472
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 14:24:48.528
+!MESSAGE Include paths were discovered in 54 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 14:25:50.523
+!MESSAGE Project was boosted in 51 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 14:25:50.558
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 15:28:08.453
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 15:28:08.454
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 15:28:08.493
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:24:48.953
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:24:48.954
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:24:49.029
+!MESSAGE Include paths were discovered in 73 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:27:35.570
+!MESSAGE Project was boosted in 80 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:27:35.640
+!MESSAGE Include paths were discovered in 68 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:34:31.813
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:34:31.814
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:34:31.869
+!MESSAGE Include paths were discovered in 54 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:44:02.810
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:44:02.811
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-04 16:44:02.871
+!MESSAGE Include paths were discovered in 58 milliseconds.
+!SESSION 2024-01-05 10:04:32.334 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-05 10:09:58.868
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 10:11:08.895
+!MESSAGE Project was boosted in 2147 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 10:11:09.066
+!MESSAGE Include paths were discovered in 167 milliseconds.
+!SESSION 2024-01-05 11:19:01.670 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 11:20:30.648
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 11:20:30.650
+!MESSAGE Project was boosted in 13 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 11:20:30.824
+!MESSAGE Include paths were discovered in 169 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 11:20:48.326
+!MESSAGE Indexed 'SCU_Gen6' (90 sources, 807 headers) in 32.6 sec: 48,138 declarations; 339,163 references; 2 unresolved inclusions; 788 syntax errors; 1,978 unresolved names (0.51%)
+!SESSION 2024-01-05 12:04:23.940 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 4 567 2024-01-05 12:04:27.757
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2024-01-05 12:04:27.757
+!MESSAGE Could not read metadata for 'SCU_Gen6'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/SCU_Gen6)[567]: java.lang.Exception: The project description file (.project) for 'SCU_Gen6' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2480)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2231)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:475)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.lambda$2(BundleContextImpl.java:808)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:802)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:759)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1019)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:404)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:388)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:463)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:170)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2024-01-05 12:04:27.758
+!MESSAGE The project description file (.project) for 'SCU_Gen6' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'SCU_Gen6' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2480)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2231)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:475)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.lambda$2(BundleContextImpl.java:808)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:802)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:759)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1019)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:404)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:388)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:463)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:170)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY com.infineon.aurix.buildsystem 4 0 2024-01-05 12:04:33.434
+!MESSAGE Project 'SCU_Gen6' is not open.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/SCU_Gen6)[372]: java.lang.Exception: Project 'SCU_Gen6' is not open.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:148)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:525)
+	at com.infineon.aurix.buildsystem.migration.AddBuildersMigrationTask.lambda$0(AddBuildersMigrationTask.java:46)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:176)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)
+	at com.infineon.aurix.buildsystem.migration.AddBuildersMigrationTask.run(AddBuildersMigrationTask.java:51)
+	at com.infineon.aurix.buildsystem.AurixIDEStartup.lambda$0(AurixIDEStartup.java:29)
+	at java.base/java.util.Arrays$ArrayList.forEach(Arrays.java:4390)
+	at com.infineon.aurix.buildsystem.AurixIDEStartup.earlyStartup(AurixIDEStartup.java:29)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:79)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:55)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$40.run(Workbench.java:2667)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 372 2024-01-05 12:04:33.435
+!MESSAGE Project 'SCU_Gen6' is not open.
+!STACK 0
+java.lang.Exception: Project 'SCU_Gen6' is not open.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:148)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:525)
+	at com.infineon.aurix.buildsystem.migration.AddBuildersMigrationTask.lambda$0(AddBuildersMigrationTask.java:46)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:176)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)
+	at com.infineon.aurix.buildsystem.migration.AddBuildersMigrationTask.run(AddBuildersMigrationTask.java:51)
+	at com.infineon.aurix.buildsystem.AurixIDEStartup.lambda$0(AurixIDEStartup.java:29)
+	at java.base/java.util.Arrays$ArrayList.forEach(Arrays.java:4390)
+	at com.infineon.aurix.buildsystem.AurixIDEStartup.earlyStartup(AurixIDEStartup.java:29)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:79)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:55)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$40.run(Workbench.java:2667)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 12:05:23.131
+!MESSAGE Indexed 'SCU_Gen6' (88 sources, 804 headers) in 22.7 sec: 48,123 declarations; 339,019 references; 1 unresolved inclusions; 786 syntax errors; 1,978 unresolved names (0.51%)
+!SESSION 2024-01-05 12:06:18.515 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:14:17.111
+!MESSAGE Project was boosted in 2568 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:14:17.224
+!MESSAGE Include paths were discovered in 109 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:33:44.624
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:33:44.625
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:33:44.713
+!MESSAGE Include paths were discovered in 87 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 12:34:16.019
+!MESSAGE Indexed 'SCU_Gen6' (88 sources, 804 headers) in 35 sec: 48,123 declarations; 339,019 references; 1 unresolved inclusions; 786 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:48:06.906
+!MESSAGE Project was boosted in 1458 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 12:48:06.958
+!MESSAGE Include paths were discovered in 49 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 14:18:43.874
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 19.6 sec: 48,144 declarations; 337,664 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:25:23.383
+!MESSAGE Project was boosted in 1334 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:25:23.422
+!MESSAGE Include paths were discovered in 37 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:33:00.560
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:33:00.561
+!MESSAGE Project was boosted in 0 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:33:00.614
+!MESSAGE Include paths were discovered in 52 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 14:33:19.503
+!MESSAGE Indexed 'SCU_Gen6' (91 sources, 808 headers) in 25.9 sec: 48,159 declarations; 337,829 references; 2 unresolved inclusions; 785 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:46:47.174
+!MESSAGE Project was boosted in 1336 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:46:47.268
+!MESSAGE Include paths were discovered in 93 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 14:48:19.260
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 14.8 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+!SESSION 2024-01-05 14:51:00.311 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:52:12.575
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:52:12.577
+!MESSAGE Project was boosted in 5 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 14:52:12.742
+!MESSAGE Include paths were discovered in 161 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 14:52:12.992
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 25.4 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 14:56:39.985
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 15.2 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 15:01:36.424
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 15.2 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:08:09.608
+!MESSAGE Project was boosted in 1654 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:08:09.647
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:09:51.863
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:09:51.864
+!MESSAGE Project was boosted in 0 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:09:51.909
+!MESSAGE Include paths were discovered in 44 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 15:10:13.876
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 24.7 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:16:28.357
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:16:28.357
+!MESSAGE Project was boosted in 0 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 15:16:28.405
+!MESSAGE Include paths were discovered in 46 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 15:16:48.073
+!MESSAGE Indexed 'SCU_Gen6' (91 sources, 808 headers) in 25.4 sec: 48,159 declarations; 337,831 references; 2 unresolved inclusions; 785 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-05 15:53:04.701
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 17.2 sec: 48,144 declarations; 337,687 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 16:05:19.268
+!MESSAGE Project was boosted in 1277 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-05 16:05:19.311
+!MESSAGE Include paths were discovered in 42 milliseconds.
+!SESSION 2024-01-07 21:34:53.196 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-07 21:35:01.520
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-07 21:42:13.908
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 20.4 sec: 48,146 declarations; 337,711 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:00:52.028
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:00:52.028
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:00:52.177
+!MESSAGE Include paths were discovered in 145 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:13:26.710
+!MESSAGE Project was boosted in 1836 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:13:26.764
+!MESSAGE Include paths were discovered in 51 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:35:51.643
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:35:51.644
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-07 22:35:51.698
+!MESSAGE Include paths were discovered in 52 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 00:45:46.308
+!MESSAGE Indexed 'SCU_Gen6' (90 sources, 807 headers) in 23.7 sec: 48,192 declarations; 337,784 references; 1 unresolved inclusions; 765 syntax errors; 1,980 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 00:46:15.382
+!MESSAGE Project was boosted in 1474 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 00:46:15.422
+!MESSAGE Include paths were discovered in 39 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 00:48:57.861
+!MESSAGE Project was boosted in 86 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 00:48:57.918
+!MESSAGE Include paths were discovered in 56 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 00:58:19.673
+!MESSAGE Project was boosted in 80 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 00:58:19.734
+!MESSAGE Include paths were discovered in 59 milliseconds.
+!SESSION 2024-01-08 09:15:51.101 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-08 09:16:16.864
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:44:42.278
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:44:42.279
+!MESSAGE Project was boosted in 2 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:44:42.488
+!MESSAGE Include paths were discovered in 205 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 09:45:05.857
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 806 headers) in 31.7 sec: 48,148 declarations; 339,068 references; 1 unresolved inclusions; 786 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:51:42.215
+!MESSAGE Project was boosted in 1252 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:51:42.260
+!MESSAGE Include paths were discovered in 42 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:55:52.512
+!MESSAGE Project was boosted in 78 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 09:55:52.566
+!MESSAGE Include paths were discovered in 52 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 10:47:42.064
+!MESSAGE Indexed 'SCU_Gen6' (90 sources, 807 headers) in 17.7 sec: 48,192 declarations; 337,784 references; 1 unresolved inclusions; 765 syntax errors; 1,980 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 10:48:56.832
+!MESSAGE Project was boosted in 1405 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 10:48:56.877
+!MESSAGE Include paths were discovered in 44 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 10:49:27.737
+!MESSAGE Project was boosted in 148 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 10:49:27.791
+!MESSAGE Include paths were discovered in 52 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 10:50:34.937
+!MESSAGE Project was boosted in 54 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 10:50:34.970
+!MESSAGE Include paths were discovered in 31 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:07:05.656
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:07:05.657
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:07:05.705
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:09:47.195
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:09:47.196
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:09:47.244
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:24:52.901
+!MESSAGE Project was boosted in 77 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:24:52.943
+!MESSAGE Include paths were discovered in 41 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:31:32.339
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:31:32.340
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 11:31:32.384
+!MESSAGE Include paths were discovered in 42 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 12:17:11.712
+!MESSAGE Indexed 'SCU_Gen6' (91 sources, 807 headers) in 18.3 sec: 48,195 declarations; 337,788 references; 1 unresolved inclusions; 765 syntax errors; 1,980 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 12:22:37.584
+!MESSAGE Project was boosted in 1419 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 12:22:37.630
+!MESSAGE Include paths were discovered in 44 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 12:23:28.905
+!MESSAGE Project was boosted in 54 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 12:23:28.940
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:18:32.124
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:18:32.124
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:18:32.160
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:20:06.532
+!MESSAGE Project was boosted in 37 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:20:06.556
+!MESSAGE Include paths were discovered in 23 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:20:52.981
+!MESSAGE Project was boosted in 33 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:20:53.003
+!MESSAGE Include paths were discovered in 22 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:25:59.793
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:25:59.793
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 14:25:59.829
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 15:59:21.169
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 15:59:21.170
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 15:59:21.233
+!MESSAGE Include paths were discovered in 60 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 16:00:04.638
+!MESSAGE Project was boosted in 35 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 16:00:04.685
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 16:37:28.175
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 16:37:28.176
+!MESSAGE Project was boosted in 2 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 16:37:28.241
+!MESSAGE Include paths were discovered in 64 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 16:44:31.731
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 20.4 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:40:31.254
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:40:31.255
+!MESSAGE Project was boosted in 0 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:40:31.293
+!MESSAGE Include paths were discovered in 37 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 17:40:51.151
+!MESSAGE Indexed 'SCU_Gen6' (91 sources, 807 headers) in 26.2 sec: 48,270 declarations; 338,122 references; 1 unresolved inclusions; 765 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 17:42:14.144
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 17.3 sec: 48,144 declarations; 337,685 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:42:40.316
+!MESSAGE Project was boosted in 1335 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:42:40.345
+!MESSAGE Include paths were discovered in 27 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:44:33.805
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:44:33.806
+!MESSAGE Project was boosted in 0 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 17:44:33.846
+!MESSAGE Include paths were discovered in 39 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 17:44:41.753
+!MESSAGE Indexed 'SCU_Gen6' (93 sources, 810 headers) in 16 sec: 48,285 declarations; 338,266 references; 2 unresolved inclusions; 767 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 18:27:29.696
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 18:27:29.697
+!MESSAGE Project was boosted in 4 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 18:27:29.769
+!MESSAGE Include paths were discovered in 71 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 18:49:33.901
+!MESSAGE Project was boosted in 2127 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 18:49:33.939
+!MESSAGE Include paths were discovered in 36 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:29:13.649
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:29:13.650
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:29:13.690
+!MESSAGE Include paths were discovered in 39 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:40:20.049
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:40:20.049
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:40:20.091
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:48:00.147
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:48:00.148
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 19:48:00.191
+!MESSAGE Include paths were discovered in 41 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:00:49.055
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:00:49.055
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:00:49.085
+!MESSAGE Include paths were discovered in 29 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:03:08.519
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:03:08.519
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:03:08.543
+!MESSAGE Include paths were discovered in 22 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:09:36.739
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:09:36.740
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:09:36.789
+!MESSAGE Include paths were discovered in 48 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:16:13.816
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:16:13.816
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 20:16:13.849
+!MESSAGE Include paths were discovered in 31 milliseconds.
+!SESSION 2024-01-08 21:37:50.941 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:26:35.861
+!MESSAGE Project was boosted in 2312 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:26:35.983
+!MESSAGE Include paths were discovered in 116 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 22:28:59.721
+!MESSAGE Indexed 'SCU_Gen6' (93 sources, 813 headers) in 23.1 sec: 48,737 declarations; 339,242 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:32:11.381
+!MESSAGE Project was boosted in 970 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:32:11.428
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:33:15.745
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:33:15.746
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:33:15.820
+!MESSAGE Include paths were discovered in 72 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:37:34.229
+!MESSAGE Project was boosted in 63 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:37:34.279
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:50:09.181
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:50:09.182
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:50:09.242
+!MESSAGE Include paths were discovered in 57 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:50:46.243
+!MESSAGE Project was boosted in 44 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:50:46.304
+!MESSAGE Include paths were discovered in 58 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:54:15.971
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:54:15.971
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:54:16.017
+!MESSAGE Include paths were discovered in 44 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:54:44.907
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:54:44.907
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:54:44.944
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:59:05.013
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:59:05.014
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:59:05.071
+!MESSAGE Include paths were discovered in 54 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:59:42.364
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:59:42.365
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 22:59:42.414
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:00:15.168
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:00:15.169
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:00:15.205
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:00:52.984
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:00:52.984
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:00:53.037
+!MESSAGE Include paths were discovered in 52 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:01:22.420
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:01:22.421
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:01:22.462
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:03:31.207
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:03:31.208
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:03:31.246
+!MESSAGE Include paths were discovered in 36 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:09:17.777
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:09:17.778
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:09:17.828
+!MESSAGE Include paths were discovered in 48 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:22:48.163
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:22:48.164
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:22:48.201
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 23:27:05.259
+!MESSAGE Indexed 'SCU_Gen6' (91 sources, 807 headers) in 18.8 sec: 48,271 declarations; 338,135 references; 1 unresolved inclusions; 765 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:29:26.432
+!MESSAGE Project was boosted in 1491 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:29:26.476
+!MESSAGE Include paths were discovered in 42 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-08 23:34:39.356
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 16.2 sec: 48,726 declarations; 339,169 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:48:57.406
+!MESSAGE Project was boosted in 875 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-08 23:48:57.434
+!MESSAGE Include paths were discovered in 27 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:04:27.643
+!MESSAGE Project was boosted in 79 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:04:27.681
+!MESSAGE Include paths were discovered in 37 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:09:29.042
+!MESSAGE Project was boosted in 66 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:09:29.077
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:20:42.778
+!MESSAGE Project was boosted in 42 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:20:42.803
+!MESSAGE Include paths were discovered in 24 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:44:37.263
+!MESSAGE Project was boosted in 92 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:44:37.312
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:47:24.422
+!MESSAGE Project was boosted in 83 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:47:24.464
+!MESSAGE Include paths were discovered in 39 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:54:28.885
+!MESSAGE Project was boosted in 80 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:54:28.927
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:59:43.486
+!MESSAGE Project was boosted in 74 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 00:59:43.552
+!MESSAGE Include paths were discovered in 65 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:06:14.450
+!MESSAGE Project was boosted in 74 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:06:14.495
+!MESSAGE Include paths were discovered in 42 milliseconds.
+!SESSION 2024-01-09 01:09:49.660 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-09 01:44:58.370
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:51:28.117
+!MESSAGE Project was boosted in 3294 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:51:28.228
+!MESSAGE Include paths were discovered in 107 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:53:17.455
+!MESSAGE Project was boosted in 161 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:53:17.541
+!MESSAGE Include paths were discovered in 83 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:58:07.901
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:58:07.902
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 01:58:07.993
+!MESSAGE Include paths were discovered in 89 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:05:05.716
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:05:05.717
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:05:05.789
+!MESSAGE Include paths were discovered in 70 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:21:39.015
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:21:39.016
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:21:39.059
+!MESSAGE Include paths were discovered in 42 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:28:41.099
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:28:41.099
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:28:41.157
+!MESSAGE Include paths were discovered in 56 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:28:47.953
+!MESSAGE Project was boosted in 53 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:28:47.988
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:29:40.775
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:29:40.776
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:29:40.894
+!MESSAGE Include paths were discovered in 116 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 02:29:49.217
+!MESSAGE Indexed 'SCU_Gen6' (96 sources, 814 headers) in 20.9 sec: 48,881 declarations; 341,038 references; 2 unresolved inclusions; 773 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:36:02.954
+!MESSAGE Project was boosted in 1622 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:36:03.002
+!MESSAGE Include paths were discovered in 46 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:37:30.669
+!MESSAGE Project was boosted in 81 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:37:30.718
+!MESSAGE Include paths were discovered in 48 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:49:32.153
+!MESSAGE Project was boosted in 81 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 02:49:32.201
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:02:59.360
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:02:59.361
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:02:59.420
+!MESSAGE Include paths were discovered in 57 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:47:07.042
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:47:07.047
+!MESSAGE Project was boosted in 11 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:47:07.184
+!MESSAGE Include paths were discovered in 136 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:47:47.377
+!MESSAGE Project was boosted in 110 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:47:47.431
+!MESSAGE Include paths were discovered in 52 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:48:59.964
+!MESSAGE Project was boosted in 85 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 03:49:00.017
+!MESSAGE Include paths were discovered in 51 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 04:01:23.835
+!MESSAGE Project was boosted in 78 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 04:01:23.918
+!MESSAGE Include paths were discovered in 82 milliseconds.
+
+!ENTRY org.eclipse.help.base 2 0 2024-01-09 04:15:36.497
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.doc.user_5.4.900.202106130013 [115]'. The index should be rebuilt with Lucene 8.4.1
+
+!ENTRY org.eclipse.help.base 4 0 2024-01-09 04:15:36.499
+!MESSAGE Help index declared, but missing for plugin com.infineon.aurix.buildsystem.doc.
+
+!ENTRY org.eclipse.help.base 2 0 2024-01-09 04:15:36.504
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.platform.doc.user_4.21.0.v20210901-0815 [289]'. The index should be rebuilt with Lucene 8.4.1
+!SESSION 2024-01-09 09:11:27.734 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-09 09:14:04.527
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 09:16:56.365
+!MESSAGE Project was boosted in 2575 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 09:16:56.504
+!MESSAGE Include paths were discovered in 135 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 09:32:40.694
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 09:32:40.695
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 09:32:40.789
+!MESSAGE Include paths were discovered in 92 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 10:44:13.144
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 10:44:13.144
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 10:44:13.213
+!MESSAGE Include paths were discovered in 67 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 10:49:54.286
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 10:49:54.287
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 10:49:54.358
+!MESSAGE Include paths were discovered in 70 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:10:09.591
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:10:09.593
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:10:09.640
+!MESSAGE Include paths were discovered in 46 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:10:34.543
+!MESSAGE Project was boosted in 59 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:10:34.582
+!MESSAGE Include paths were discovered in 38 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:36:47.577
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:36:47.579
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:36:47.640
+!MESSAGE Include paths were discovered in 60 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:39:02.760
+!MESSAGE Project was boosted in 62 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:39:02.796
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:39:27.274
+!MESSAGE Project was boosted in 43 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:39:27.306
+!MESSAGE Include paths were discovered in 30 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:42:03.088
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:42:03.089
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:42:03.138
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:52:25.290
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:52:25.291
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:52:25.360
+!MESSAGE Include paths were discovered in 67 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:56:18.496
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:56:18.497
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 11:56:18.542
+!MESSAGE Include paths were discovered in 43 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:00:51.465
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:00:51.465
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:00:51.511
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:25:15.330
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:25:15.330
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:25:15.381
+!MESSAGE Include paths were discovered in 49 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 12:43:20.426
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 27.4 sec: 48,727 declarations; 339,183 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:47:30.390
+!MESSAGE Project was boosted in 1586 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 12:47:30.433
+!MESSAGE Include paths were discovered in 42 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 12:56:04.799
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 20.1 sec: 48,728 declarations; 339,190 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:23:54.500
+!MESSAGE Project was boosted in 1474 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:23:54.534
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:46:26.026
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:46:26.027
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:46:26.065
+!MESSAGE Include paths were discovered in 36 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:48:28.850
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:48:28.851
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 14:48:28.885
+!MESSAGE Include paths were discovered in 33 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 15:12:55.303
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 15:12:55.304
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 15:12:55.341
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 15:21:00.423
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 15:21:00.425
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 15:21:00.479
+!MESSAGE Include paths were discovered in 53 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 15:44:04.663
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 14.6 sec: 48,730 declarations; 339,205 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:13:24.198
+!MESSAGE Project was boosted in 1067 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:13:24.233
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:55:39.882
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:55:39.883
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:55:39.920
+!MESSAGE Include paths were discovered in 36 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:57:08.406
+!MESSAGE Project was boosted in 54 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:57:08.439
+!MESSAGE Include paths were discovered in 32 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:57:34.098
+!MESSAGE Project was boosted in 44 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 16:57:34.125
+!MESSAGE Include paths were discovered in 26 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 17:26:37.235
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 17:26:37.235
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 17:26:37.284
+!MESSAGE Include paths were discovered in 47 milliseconds.
+!SESSION 2024-01-09 17:40:38.665 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.equinox.app 4 2 2024-01-09 17:41:22.718
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.equinox.app".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4893)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.SWT.error(SWT.java:4779)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:445)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:364)
+	at org.eclipse.swt.widgets.Shell.close(Shell.java:547)
+	at org.eclipse.ui.splash.AbstractSplashHandler.dispose(AbstractSplashHandler.java:65)
+	at org.eclipse.ui.internal.Workbench$3$1.applicationRunning(Workbench.java:802)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle$1.run(EclipseAppHandle.java:279)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.applicationRunning(EclipseAppHandle.java:267)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1087)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1041)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 17:42:07.001
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 17:42:07.003
+!MESSAGE Project was boosted in 4 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 17:42:07.214
+!MESSAGE Include paths were discovered in 207 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 17:42:31.141
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 37.8 sec: 48,731 declarations; 339,226 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 20:04:56.472
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 19.5 sec: 48,144 declarations; 337,687 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 20:35:54.247
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 806 headers) in 19 sec: 48,146 declarations; 339,060 references; 1 unresolved inclusions; 784 syntax errors; 1,978 unresolved names (0.51%)
+!SESSION 2024-01-09 21:51:58.839 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 22:44:33.902
+!MESSAGE Project was boosted in 2103 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 22:44:34.005
+!MESSAGE Include paths were discovered in 99 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 22:45:33.184
+!MESSAGE Project was boosted in 73 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 22:45:33.249
+!MESSAGE Include paths were discovered in 61 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-09 22:47:23.809
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 18.3 sec: 48,731 declarations; 339,218 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:31:35.010
+!MESSAGE Project was boosted in 923 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:31:35.050
+!MESSAGE Include paths were discovered in 39 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:32:05.629
+!MESSAGE Project was boosted in 62 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:32:05.671
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:55:22.248
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:55:22.249
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-09 23:55:22.306
+!MESSAGE Include paths were discovered in 55 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:06:13.898
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:06:13.899
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:06:13.958
+!MESSAGE Include paths were discovered in 57 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:44:36.621
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:44:36.621
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:44:36.669
+!MESSAGE Include paths were discovered in 46 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:47:34.579
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:47:34.579
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:47:34.634
+!MESSAGE Include paths were discovered in 53 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:51:17.358
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:51:17.359
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:51:17.409
+!MESSAGE Include paths were discovered in 48 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:56:33.436
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:56:33.437
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:56:33.494
+!MESSAGE Include paths were discovered in 55 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:58:01.626
+!MESSAGE Project was boosted in 84 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:58:01.675
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:58:29.737
+!MESSAGE Project was boosted in 67 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 00:58:29.786
+!MESSAGE Include paths were discovered in 47 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:13:16.773
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:13:16.774
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:13:16.820
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 01:13:33.307
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 807 headers) in 22.1 sec: 48,148 declarations; 337,835 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 01:19:05.968
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 814 headers) in 16.4 sec: 48,737 declarations; 340,632 references; 1 unresolved inclusions; 772 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:31:04.630
+!MESSAGE Project was boosted in 1562 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:31:04.672
+!MESSAGE Include paths were discovered in 40 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:32:51.746
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:32:51.747
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:32:51.791
+!MESSAGE Include paths were discovered in 43 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:48:48.305
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:48:48.305
+!MESSAGE Project was boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 01:48:48.357
+!MESSAGE Include paths were discovered in 50 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 02:10:35.975
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 23.6 sec: 48,735 declarations; 339,240 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:11:18.502
+!MESSAGE Project was boosted in 1870 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:11:18.563
+!MESSAGE Include paths were discovered in 57 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:18:57.210
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:18:57.211
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:18:57.247
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:23:49.280
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:23:49.281
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:23:49.311
+!MESSAGE Include paths were discovered in 28 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:35:06.422
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:35:06.423
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:35:06.469
+!MESSAGE Include paths were discovered in 45 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:44:29.244
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:44:29.244
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:44:29.294
+!MESSAGE Include paths were discovered in 48 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 02:44:53.623
+!MESSAGE Indexed 'SCU_Gen6' (89 sources, 805 headers) in 26.6 sec: 48,148 declarations; 337,835 references; 1 unresolved inclusions; 783 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 02:53:38.885
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 813 headers) in 21 sec: 48,735 declarations; 339,313 references; 1 unresolved inclusions; 771 syntax errors; 1,984 unresolved names (0.51%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:59:01.058
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:59:01.059
+!MESSAGE Project was boosted in 1 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 02:59:01.112
+!MESSAGE Include paths were discovered in 52 milliseconds.
+!SESSION 2024-01-10 09:18:46.235 -----------------------------------------------
+eclipse.buildId=1.6.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-10 09:20:08.359
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:25:29.127
+!MESSAGE Project was boosted in 2908 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:25:29.273
+!MESSAGE Include paths were discovered in 141 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:26:47.109
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:26:47.111
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:26:47.225
+!MESSAGE Include paths were discovered in 112 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:30:03.859
+!MESSAGE Project was boosted in 124 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:30:03.927
+!MESSAGE Include paths were discovered in 65 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:37:45.735
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:37:45.736
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:37:45.830
+!MESSAGE Include paths were discovered in 91 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:46:48.025
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:46:48.027
+!MESSAGE Project was boosted in 1 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2024-01-10 09:46:48.120
+!MESSAGE Include paths were discovered in 92 milliseconds.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 11:23:24.511
+!MESSAGE Indexed 'SCU_Gen6' (88 sources, 804 headers) in 20 sec: 48,094 declarations; 338,505 references; 1 unresolved inclusions; 786 syntax errors; 1,978 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 16:05:13.634
+!MESSAGE Indexed 'SCU_Gen6' (92 sources, 814 headers) in 13.8 sec: 48,737 declarations; 340,670 references; 1 unresolved inclusions; 772 syntax errors; 1,984 unresolved names (0.51%)

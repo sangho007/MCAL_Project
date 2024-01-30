@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SCU_Gen6/Source/3_EcuAbs/Fls/EcuAbsNvm.c&apos; to &apos;EcuAbsFls.c&apos;" description="Rename resource &apos;EcuAbsNvm.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Source/3_EcuAbs/Fls/EcuAbsNvm.c" name="EcuAbsFls.c" stamp="1704674917790" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SCU_Gen6/Source/3_EcuAbs/Fls/EcuAbsNvm.h&apos; to &apos;EcuAbsFls.h&apos;" description="Rename resource &apos;EcuAbsNvm.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Source/3_EcuAbs/Fls/EcuAbsNvm.h" name="EcuAbsFls.h" stamp="1704674923551" updateReferences="true"/>
+</session>

@@ -1,0 +1,13 @@
+#include "EcuAbsSpi.h"
+#include "Spi.h"
+#include "Spi_Cfg.h"
+
+void EA_initSpi(void)
+{
+    (void) 0;
+}
+
+void EA_mainSpi(void)
+{
+    (void) 0;
+}

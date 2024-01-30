@@ -1,0 +1,31 @@
+#include "EcuAbsSpi.h"
+#include "Spi.h"
+#include "Spi_Cfg.h"
+
+#define CMD_AXIS6_WRITE 0u
+#define CMD_AXIS6_READ 1u
+#define SPI_CHANNEL_AXIS6 SpiConf_SpiChannel_SpiChannel_0
+#define SPI_DUMMY_DATA 0xFFu
+#define REG_VALUE_AXIS6_WHO_AM_I 0x6Bu
+#define REG_ADDR_AXIS6_WHO_AM_I 0x0Fu
+typedef struct {
+    uint8 whoAmI;
+    sint16 temperature;
+    sint16 gyroX;
+    sint16 gyroY;
+    sint16 gyroZ;
+    sint16 accelX;
+    sint16 accelY;
+    sint16 accelZ;
+} ST_Axis6Data;
+static ST_Axis6Data stAxis6Data;
+typedef struct {
+    unsigned int value : 8;
+    unsigned int address : 7;
+    unsigned int commend : 1;
+} ST_SpiCommunication;
+static uint16_t spiCommunication(Spi_ChannelType channel, uint8 commend, uint8 address, uint8 value);
+
+void EA_initSpi(void) { (void)0; }
+
+void EA_mainSpi(void) { (void)0; }
